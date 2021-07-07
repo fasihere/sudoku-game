@@ -16,7 +16,7 @@ The classic sudoku game made using pygame module in python
 
 ## Screenshots
 
-![Game_Play](/images/gameplay.png)      ![Game_Over](/images/gameover.png)
+![Game_Play](/images/gameplay.png)      ![Game_Over](/images/gameover.png)      ![Game_Solved](/images/gamesolved.png)
 
 ## Instructions to run the game:
 - Python and pygame need to be installed.
