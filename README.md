@@ -20,6 +20,6 @@ The classic sudoku game made using pygame module in python
 
 ## Instructions to run the game:
 - Python and pygame need to be installed.
-- Clone the repository and run snake.py to play the game
-- Eating an apple increments your score by 1 (Try beating the highscore each time you play)
+- Clone the repository and run sudoku.py to play the game
+- Try solving on your own, boards will be completely random but easy.
 - Good Luck!
